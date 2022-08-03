@@ -1,28 +1,28 @@
 
 <h1 align="center">
     <br>
-    <p align="center"> Pokedex - projeto guiado<p>
+    <p align="center"> POKEDEX - projeto guiado 😺<p>
 </h1>
 
 <h1 align="center">
     <br>
-    <p align="center"> Semana 13 {reprograma} 🎇<p>
+    <p align="center"> Semana 13 {reprograma} 💜 <p>
 </h1>
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/64453332/182519344-171cb529-702c-4514-b311-e4b8addb61f1.gif" alt="logo reprogramafy" width="500">
+<img src="https://user-images.githubusercontent.com/64453332/182519344-171cb529-702c-4514-b311-e4b8addb61f1.gif" alt="logo reprogramafy" width="300">
 </p> <p align="center"> </p>
 
 
 <center> 
 
-### Apresentação
+## Apresentação
 Este projeto foi desenvolvido na semana 13 do bootcamp {reprograma}, sob orientação da professora Beatriz Ramerindo. Neste projeto podemos manipular um banco de dados para cadastrar treinadores pokemon e também espécies de pokemon. 
 Nesta API, executamos todas as funções CRUD e hospedamos o banco de dados no MongoDB.
 
 
-## Tecnologias Utilizadas 
+### Tecnologias Utilizadas 
 
 
 |  Feramenta    |        Utilidade |
@@ -42,7 +42,7 @@ Nesta API, executamos todas as funções CRUD e hospedamos o banco de dados no M
 
 <br>
 
- ## 🗃️ Arquitetura MRC 
+ ### 🗃️ Arquitetura MRC 
  ```
  📁 Projeto-Cirandeiras
    |
@@ -77,13 +77,13 @@ Nesta API, executamos todas as funções CRUD e hospedamos o banco de dados no M
    ```
  <br>
 
- ## 📃  Regras de negócio 
+ ### 📃  Regras de negócio 
 
 - Não será possível cadastrar mais de um treinador com o mesmo nome.
 - Para cadastrar um novo pokemon, no momento do cadastro, é necessário, vinculá-lo a um treinador já existente no sistema, através do ID do treinador correspondente. Este ID deverá ser enviado no corpo da requisição.
 
  
-## Rotas/endpoints
+### Rotas/endpoints
 
  - [x] GET "/treinadores" - Deverá retornar todos os treinadores cadastrados.
 
@@ -106,12 +106,13 @@ Nesta API, executamos todas as funções CRUD e hospedamos o banco de dados no M
  - [x] PATCH "/pokedex/[ID]" - Deverá alterar informação específica dentro de um estudio por id específico e retorna o título alterado
 
 Este projeto foi desenvolvido durante o bootcamp:
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/64453332/181824592-356442f6-1286-49ba-a8ce-51f6c66a71b9.png" alt="logo reprogramafy" width="200">
 </p> <p align="center"> </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/64453332/182519299-f517545c-3f7f-4bc7-a4dc-00f27914614f.gif" alt="logo reprogramafy" width="500">
+<img src="https://user-images.githubusercontent.com/64453332/182519299-f517545c-3f7f-4bc7-a4dc-00f27914614f.gif" alt="logo reprogramafy" width="300">
 </p> <p align="center"> </p>
 
 
